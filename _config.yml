@@ -26,7 +26,7 @@ color: '#dfb221'  # Define the color of the badge
  
 # Defaults
 defaults:
-
+  -
     scope:
       path: ""
     values:
