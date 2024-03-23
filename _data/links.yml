@@ -1,22 +1,14 @@
-- category: Blogs
+- category: Bots
   items:
-    - title: Example
-      url: https://www.example.com
-      icon: ri:film-fill # Icons are optional.
+    - title: Sweepy
+      url: https://sweepy.lol
       tag: New
 
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
+    - title: Find out for yourself
+      url: cutt.ly/landofthefreedom
+      icon: simple-icons:discord
 
-- category: Products
+- category: Friends
   items:
-    - title: Example 3
-      url: https://www.example.com
-
-- category: Works
-  items:
-    - title: Example 4
-      url: https://www.example.org
-      icon: clarity:language-solid
-      tag: Sale
+    - title: TrisoPcoo
+      url: https://www.trisopcoo.co.uk/
