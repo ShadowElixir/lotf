@@ -3,7 +3,7 @@ theme: linkhub-jekyll-theme
 
 # Site Configuration
 name: Land of the Freedom  # Name of your website
-tagline:  # Set your preferred page title
+#tagline:  # Set your preferred page title
 description: No rules whatsoever # Also used as a meta description
 favicon: https://i.imgur.com/cDXLchM.jpeg # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: https://i.imgur.com/cDXLchM.jpeg # Path / URL to the logo (e.g., 'assets/images/logo.png')
