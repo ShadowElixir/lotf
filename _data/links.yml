@@ -2,7 +2,7 @@
   items:
     - title: The Flash
       url: https://www.youtube.com/@theflash444
-
+      tag: ⚡︎
 - category: Free Roles
   items:
     - title: Orthodox
@@ -11,7 +11,8 @@
 
     - title: Friend
       url: https://cutt.ly/landofthefreedom
-
+      tag: ☃
+      
     - title: Find out for yourself
       url: https://cutt.ly/landofthefreedom
       icon: simple-icons:discord
